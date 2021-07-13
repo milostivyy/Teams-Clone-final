@@ -1,0 +1,32 @@
+{
+  "name": "vc_webApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "react-chat-engine": "^1.10.8",
+    "react-icon": "^1.0.0",
+    "react-icons": "^4.2.0",
+    "react-router-dom": "^5.2.0",
+    "socket.io": "^3.1.2"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Netrux/vc_webApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Netrux/vc_webApp/issues"
+  },
+  "homepage": "https://github.com/Netrux/vc_webApp#readme"
+}

@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+  }
+  html,
+  body {
+	height: 100%;
+  }
+  #root {
+	background-color: #f0f0f0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+  }
+  .__main {
+	max-width: 90%;
+	margin: auto;
+	background-color: #fff;
+	min-height: 80vh;
+	width: 100%;
+	border-radius: 10px;
+	padding: 20px;
+	display: flex;
+	padding-left: 0;
+  }
