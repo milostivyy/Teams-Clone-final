@@ -137,7 +137,7 @@ This project is focued on making real time chat application with features and vi
   
    1. Clone this repo in your local storage using command :
     
-       $ git clone https://github.com/milostivyy/Teams-Clone 
+       $ git clone https://github.com/milostivyy/Teams-Clone-final 
        
    2. Open a new terminal to go to server folder, install packages and run the server 
    
